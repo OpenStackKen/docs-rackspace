@@ -90,7 +90,7 @@ The API docs are located in the following https://github.com/rackerlabs repos:
 -  `Cloud Databases <https://github.com/rackerlabs/docs-cloud-databases>`_
 -  `Cloud DNS <https://github.com/rackerlabs/docs-cloud-dns>`_
 -  `Cloud Files <https://github.com/rackerlabs/docs-cloud-files>`_
--  `Cloud Identity <https://github.com/rackerlabs/docs-cloud-identity>`_
+-  `Identity <https://github.com/rackerlabs/docs-cloud-identity>`_
 -  `Cloud Images <https://github.com/rackerlabs/docs-cloud-images>`_
 -  `Cloud Load Balancers
    <https://github.com/rackerlabs/docs-cloud-load-balancers>`_

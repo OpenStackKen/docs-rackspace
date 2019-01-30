@@ -1,7 +1,7 @@
 # Contributor Guidelines
 
 These guidelines provide the general process for maintaining source code that
-builds the Rackspace Cloud Identity developer documentation.
+builds the Identity developer documentation.
 
 
 <!-- Provide as little or as much information about architecture as needed to
