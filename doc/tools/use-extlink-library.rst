@@ -159,12 +159,12 @@ your project and update external links in your project.
    - Review each occurrence to determine whether the link can be replaced by
      an external link reference.
 
-     For example, if you have links to a Knowledge Center article, you can
+     For example, if you have links to a How-To article, you can
      replace it with the following link:
 
      .. code::
 
-        :kc-article:`Link text <article-label>`.
+        :how-to:`Link text <article-label>`.
 
      When the Sphinx project builds, the *Link text* is rendered as a link,
      and the HREF definition is populated with the full URL.
