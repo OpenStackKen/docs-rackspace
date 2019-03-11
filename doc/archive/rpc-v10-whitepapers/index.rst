@@ -30,9 +30,9 @@ Except as expressly provided in any written license agreement from
 Rackspace, the furnishing of this document does not give you any license
 to patents, trademarks, copyrights, or other intellectual property.
 
-Rackspace, Rackspace logo, Fanatical Support®, and OpenCenter are either
-registered trademarks or trademarks of Rackspace US, Inc. in the United
-States and/or other countries. OpenStack is either a registered
+Rackspace, Rackspace logo, Fanatical Fanatical Experience, and OpenCenter
+are either registered trademarks or trademarks of Rackspace US, Inc. in the
+United States and/or other countries. OpenStack is either a registered
 trademark or trademark of the OpenStack Foundation in the United States
 and/or other countries.
 
