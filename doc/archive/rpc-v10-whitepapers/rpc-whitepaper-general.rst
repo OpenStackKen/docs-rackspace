@@ -31,7 +31,7 @@ by OpenStack®, it delivers the agility and efficiency of a
 public cloud combined with the improved security, control, and
 performance of a dedicated environment. Whether deployed in your data
 center or ours, RPC is managed by our OpenStack experts and is backed
-by Fanatical Support®. RPC uses open source Linux
+by Rackspace support. RPC uses open source Linux
 Containers (LXC) deployed with the Ansible IT automation system to
 create a powerful, fully featured, and logically segmented private
 cloud. It delivers high availability using a four-server control plane
@@ -200,7 +200,7 @@ version 10 is derived from the “trunk” of OpenStack Juno, so you won’t
 be locked in to proprietary modifications or incompatible APIs. As one
 of the co-founders of OpenStack, Rackspace contributes significantly to
 its ongoing development and employs a team of OpenStack experts to
-provide you with Fanatical Support. With flexibility in the consumption
+provide you with support. With flexibility in the consumption
 model, compatibility with other open clouds, and the strong, rapidly
 growing community of fellow OpenStack adopters, RPC gives you an open
 and transparent solution.

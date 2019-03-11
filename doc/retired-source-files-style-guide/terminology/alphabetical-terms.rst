@@ -37,7 +37,7 @@ parts of speech:
 
        *Use:*
 
-       **Fanatical Support**\® sets Rackspace apart. We are here to help,
+       Providing a Fanatical Experience™ sets Rackspace apart. We are here to help,
        24x7x365.
    * - about, on
      - Restricted
@@ -1151,13 +1151,13 @@ parts of speech:
      - Use *unable to* instead.
    * - fanatical, fanatically
      - Don't use
-     - Because *Fanatical* and *Fanatical Support* are Rackspace trademarks,
+     - Because *Fanatical* and *Fanatical Experience* are Rackspace trademarks,
        don't use *fanatical* as a general adjective, and don't use
        *fanatically*.
 
        *Use:*
 
-       Our dedication to **Fanatical Support**\® extends beyond
+       Our dedication to providing a Fanatical Experience extends beyond
        expert live assistance to ensuring that customers have access to
        self-help tools.
 

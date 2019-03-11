@@ -50,7 +50,7 @@ shown in a dictionary, or accepted as standard in the industry.
      - Service Advertising Protocol
    * - Hong Kong
      - WordPress
-   * - Fanatical Support
+   * - Fanatical Experience
      - Boolean
    * - Cloud Servers
      - OpenStack

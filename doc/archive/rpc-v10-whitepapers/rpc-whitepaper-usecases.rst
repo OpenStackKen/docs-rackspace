@@ -9,7 +9,7 @@ Rackspace(R) Private Cloud (RPC) Software delivers the agility,
 reliability, and efficiency of a public cloud with the enhanced
 security, control, and performance of a private cloud.  RPC provides
 cost-effective solutions for several important cloud use cases, all
-backed by Fanatical Support(R).  In this paper, we explore how RPC
+backed by Rackspace support.  In this paper, we explore how RPC
 delivers solutions to running web tier applications: scaling using
 Rackspace hybrid clouds, completing the development cycle, and
 managing big data.
