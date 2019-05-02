@@ -58,21 +58,18 @@ Architects, and Editors.
 
 Following are the members of the team:
 
-* Karin Levenstein - Information Development Manager, Austin
-
+  * Renee Rendon - Team Lead - Information Developer V, San Antonio                             
+  * Robb Romans - Team Lead -  Information Developer V, Austin
+  * Cat Lookabaugh - Information Developer IV, San Antonio
   * Catherine Richardson - Senior Technical Editor, Austin
   * Christopher Moyer - Information Developer IV, Austin
-  * Erik Wilson - Information Developer IV, Austin
-  * Robb Romans - Team Lead for Doc Tools - Information Developer V, Austin
-  * Matt Penna - Information Developer IV, Remote
-  * Svetlana Karsliogu - Information Developer III, Remote
-
-* Renee Rendon (San Antonio) - Team lead (Information Developer V) for
-                               San Antonio Information Developers
-
-  * Cat Lookabaugh - Information Developer IV, San Antonio
-  * Kate Dougherty - Information Developer II, Remote
   * Stephanie Fillmon - Information Developer II, San Antonio
+  * Svetlana Karsliogu - Information Developer III, Remote
+  * William Loy - Information Developer II, San Antonio
+
+
+
+
 
 Rackspace Private Cloud documentation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
