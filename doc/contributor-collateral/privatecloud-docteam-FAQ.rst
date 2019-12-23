@@ -321,6 +321,7 @@ Contributor Guides:
 * OpenStack Developer and Community Infrastructure Documentation
 * OpenStack I18n Guide
 
+
 What do the OpenStack manuals docs contain?
 -------------------------------------------
 
