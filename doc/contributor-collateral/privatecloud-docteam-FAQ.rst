@@ -58,7 +58,7 @@ Architects, and Editors.
 
 Following are the members of the team:
 
-  * Renee Rendon - Team Lead - Information Developer V, San Antonio                             
+  * Renee Rendon - Team Lead - Information Developer V, San Antonio
   * Robb Romans - Team Lead -  Information Developer V, Austin
   * Cat Lookabaugh - Information Developer IV, San Antonio
   * Catherine Richardson - Senior Technical Editor, Austin
@@ -247,9 +247,8 @@ How do we contribute to OSA docs?
 ---------------------------------
 
 OSA is an upstream project. The source code lives in GitHub, and it is
-developed and maintained by using OpenStack tools and processes, which include
-Launchpad for bug and issue logging and management, and Gerrit for code
-reviews.
+developed and maintained by using OpenStack tools and processes and Gerrit for
+code reviews.
 
 Use the following resources to learn how to contribute to the OSA
 documentation:
@@ -330,7 +329,7 @@ deprecations, known issues, and bug fixes.
 
 The **Install Guides** contain information about getting started with the most
 commonly used OpenStack services on openSUSE, SUSE Linux, Red Hat Enterprise
-Linux, CentOS, and Ubuntu.
+Linux, CentOS, and the Ubuntu operating system.
 
 The **Operations and Administration Guides** contain the following information:
 
@@ -392,9 +391,8 @@ How do we contribute to OpenStack manuals?
 ------------------------------------------
 
 OpenStack manuals is an upstream project. The source code lives in GitHub, and
-it is developed and maintained by using OpenStack tools and processes, which
-include Launchpad for bug and issue logging and management, and Gerrit for code
-reviews.
+it is developed and maintained by using OpenStack tools and processes and
+Gerrit for code reviews.
 
 Use the following resources to learn how to contribute to the OpenStack manuals
 documentation:
